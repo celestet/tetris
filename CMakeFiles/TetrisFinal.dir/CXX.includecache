@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/exam projects/TetrisFinal/Blocks.h
+SFML/Graphics.hpp
+/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/exam projects/TetrisFinal/SFML/Graphics.hpp
+
+/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/exam projects/TetrisFinal/Game.h
+SFML/Graphics.hpp
+/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/exam projects/TetrisFinal/SFML/Graphics.hpp
+Blocks.h
+/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/exam projects/TetrisFinal/Blocks.h
+
+/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/exam projects/TetrisFinal/main.cpp
+SFML/Graphics.hpp
+/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/exam projects/TetrisFinal/SFML/Graphics.hpp
+Game.h
+/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/exam projects/TetrisFinal/Game.h
+
